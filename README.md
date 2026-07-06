@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✈️ Traveler: Professional Travel Planning Dashboard
 
 **Traveler** is a full-featured travel management system built to demonstrate modern React patterns, robust state management, and complex API orchestrations.
@@ -95,3 +96,6 @@ npm install
 npm run dev
 
 ---
+=======
+# traveler
+>>>>>>> 1f218358cc970933eaa3ae031bb15e01bfb9f894
